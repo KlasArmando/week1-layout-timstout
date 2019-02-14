@@ -1,0 +1,22 @@
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+
+nav{
+  ul{
+    li{
+      font-size: 20px;
+    }
+  }
+}
+
+body{
+  main{
+    .covers{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+}
